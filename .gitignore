@@ -1,4 +1,4 @@
 # Evita subir datos sensibles y dependencias pesadas
 .env
 node_modules/
-package-lock.json
+
